@@ -26,7 +26,7 @@
    
  2. 
    + Prometheus - pull
-    + TICK - push
+   + TICK - push
    + Zabbix - push/pull
-  +  VictoriaMetrics - pull/push
- +   Nagios - push
+   + VictoriaMetrics - pull/push
+   + Nagios - push
