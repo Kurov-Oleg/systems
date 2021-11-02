@@ -30,3 +30,6 @@
    + Zabbix - push/pull
    + VictoriaMetrics - pull/push
    + Nagios - push
+
+
+5. плагин изначально уже был доабвлен в telegraf поэтому не пришлось ничего менять
